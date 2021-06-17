@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on any of the amazing open source projects
 - 📫 How to reach me -- visit www.rahulnag.cf
 - 🏼‍🚀 Some of my useful links
-  [10000 EMOJIS COLLECTION](https://www.myemoji.ml/)
-  [AMAZING COLORS COLLECTIONS](http://colorscube.ml/)
-  [VOICE ENABLED VACCINE AVAILABILITY](https://searchvaccine.netlify.app/)
+  - [10000 EMOJIS COLLECTION](https://www.myemoji.ml/)
+  - [AMAZING COLORS COLLECTIONS](http://colorscube.ml/)
+  - [VOICE ENABLED VACCINE AVAILABILITY](https://searchvaccine.netlify.app/)
